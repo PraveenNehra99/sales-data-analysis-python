@@ -1,0 +1,121 @@
+order_id,order_date,city,product,category,quantity,unit_price_inr,discount_rate,revenue_inr
+ORD0001,2026-06-13,Delhi,Headphones,Electronics,1,2500,0.05,2375.0
+ORD0002,2026-02-27,Jaipur,Office Chair,Furniture,1,8500,0.15,7225.0
+ORD0003,2026-06-01,Jaipur,Pen Set,Stationery,1,220,0,220
+ORD0004,2026-02-25,Jaipur,Notebook Pack,Stationery,5,350,0.15,1487.5
+ORD0005,2026-05-24,Delhi,Notebook Pack,Stationery,5,350,0.1,1575.0
+ORD0006,2026-04-25,Ahmedabad,Desk Lamp,Furniture,1,1800,0,1800
+ORD0007,2026-04-19,Delhi,USB Drive,Electronics,3,700,0,2100
+ORD0008,2026-03-28,Jaipur,Headphones,Electronics,1,2500,0.1,2250.0
+ORD0009,2026-04-02,Jaipur,USB Drive,Electronics,5,700,0.05,3325.0
+ORD0010,2026-04-28,Bengaluru,Headphones,Electronics,4,2500,0,10000
+ORD0011,2026-03-17,Ahmedabad,USB Drive,Electronics,5,700,0,3500
+ORD0012,2026-01-18,Jaipur,Laptop,Electronics,2,65000,0.05,123500.0
+ORD0013,2026-03-01,Pune,Headphones,Electronics,4,2500,0.05,9500.0
+ORD0014,2026-06-12,Mumbai,USB Drive,Electronics,2,700,0.05,1330.0
+ORD0015,2026-02-23,Ahmedabad,Desk Lamp,Furniture,1,1800,0.15,1530.0
+ORD0016,2026-02-13,Pune,Notebook Pack,Stationery,2,350,0.1,630.0
+ORD0017,2026-03-11,Delhi,Notebook Pack,Stationery,3,350,0,1050
+ORD0018,2026-01-09,Jaipur,USB Drive,Electronics,4,700,0.05,2660.0
+ORD0019,2026-02-24,Pune,USB Drive,Electronics,2,700,0.1,1260.0
+ORD0020,2026-06-14,Delhi,Monitor,Electronics,2,14000,0.05,26600.0
+ORD0021,2026-03-05,Bengaluru,Desk Lamp,Furniture,5,1800,0.1,8100.0
+ORD0022,2026-04-13,Bengaluru,USB Drive,Electronics,2,700,0,1400
+ORD0023,2026-05-07,Delhi,Headphones,Electronics,1,2500,0,2500
+ORD0024,2026-06-10,Jaipur,Office Chair,Furniture,4,8500,0.15,28900.0
+ORD0025,2026-04-09,Bengaluru,Pen Set,Stationery,5,220,0.1,990.0
+ORD0026,2026-03-06,Mumbai,Laptop,Electronics,1,65000,0.15,55250.0
+ORD0027,2026-06-14,Pune,USB Drive,Electronics,1,700,0.05,665.0
+ORD0028,2026-02-10,Bengaluru,Monitor,Electronics,1,14000,0.05,13300.0
+ORD0029,2026-02-15,Bengaluru,Headphones,Electronics,3,2500,0.15,6375.0
+ORD0030,2026-02-20,Bengaluru,Office Chair,Furniture,3,8500,0,25500
+ORD0031,2026-05-16,Pune,Laptop,Electronics,5,65000,0.05,308750.0
+ORD0032,2026-01-05,Delhi,Headphones,Electronics,3,2500,0.05,7125.0
+ORD0033,2026-01-15,Jaipur,Notebook Pack,Stationery,5,350,0,1750
+ORD0034,2026-05-05,Delhi,Headphones,Electronics,5,2500,0,12500
+ORD0035,2026-06-18,Mumbai,Monitor,Electronics,5,14000,0,70000
+ORD0036,2026-05-16,Ahmedabad,Pen Set,Stationery,2,220,0.15,374.0
+ORD0037,2026-06-26,Ahmedabad,Notebook Pack,Stationery,3,350,0.1,945.0
+ORD0038,2026-06-16,Pune,USB Drive,Electronics,4,700,0.15,2380.0
+ORD0039,2026-01-31,Mumbai,Notebook Pack,Stationery,2,350,0,700
+ORD0040,2026-01-06,Jaipur,Notebook Pack,Stationery,5,350,0,1750
+ORD0041,2026-01-19,Jaipur,Laptop,Electronics,2,65000,0,130000
+ORD0042,2026-03-26,Mumbai,Headphones,Electronics,5,2500,0,12500
+ORD0043,2026-06-21,Delhi,Monitor,Electronics,2,14000,0.15,23800.0
+ORD0044,2026-05-27,Pune,Monitor,Electronics,2,14000,0.1,25200.0
+ORD0045,2026-02-18,Mumbai,Headphones,Electronics,1,2500,0.1,2250.0
+ORD0046,2026-04-19,Ahmedabad,Pen Set,Stationery,4,220,0,880
+ORD0047,2026-06-17,Ahmedabad,Headphones,Electronics,1,2500,0.1,2250.0
+ORD0048,2026-03-28,Delhi,Headphones,Electronics,2,2500,0,5000
+ORD0049,2026-05-18,Delhi,Monitor,Electronics,2,14000,0.1,25200.0
+ORD0050,2026-03-13,Pune,Monitor,Electronics,2,14000,0,28000
+ORD0051,2026-05-21,Jaipur,Headphones,Electronics,1,2500,0.15,2125.0
+ORD0052,2026-01-24,Pune,Notebook Pack,Stationery,2,350,0.1,630.0
+ORD0053,2026-05-04,Delhi,Notebook Pack,Stationery,4,350,0,1400
+ORD0054,2026-04-08,Pune,Laptop,Electronics,4,65000,0.05,247000.0
+ORD0055,2026-03-15,Delhi,Pen Set,Stationery,5,220,0.1,990.0
+ORD0056,2026-02-18,Bengaluru,Desk Lamp,Furniture,2,1800,0,3600
+ORD0057,2026-05-19,Jaipur,Laptop,Electronics,3,65000,0,195000
+ORD0058,2026-05-30,Delhi,Monitor,Electronics,5,14000,0.15,59500.0
+ORD0059,2026-01-15,Bengaluru,Headphones,Electronics,2,2500,0,5000
+ORD0060,2026-01-18,Bengaluru,Notebook Pack,Stationery,4,350,0,1400
+ORD0061,2026-03-05,Pune,Laptop,Electronics,5,65000,0,325000
+ORD0062,2026-06-18,Ahmedabad,USB Drive,Electronics,3,700,0,2100
+ORD0063,2026-03-22,Delhi,Notebook Pack,Stationery,3,350,0.1,945.0
+ORD0064,2026-06-21,Jaipur,Desk Lamp,Furniture,4,1800,0.05,6840.0
+ORD0065,2026-01-03,Jaipur,Monitor,Electronics,5,14000,0.15,59500.0
+ORD0066,2026-01-19,Delhi,Notebook Pack,Stationery,5,350,0.05,1662.5
+ORD0067,2026-03-31,Mumbai,Headphones,Electronics,2,2500,0.05,4750.0
+ORD0068,2026-02-10,Bengaluru,Monitor,Electronics,5,14000,0.05,66500.0
+ORD0069,2026-06-17,Ahmedabad,Laptop,Electronics,5,65000,0.05,308750.0
+ORD0070,2026-01-27,Jaipur,Office Chair,Furniture,3,8500,0,25500
+ORD0071,2026-05-22,Bengaluru,Office Chair,Furniture,3,8500,0.05,24225.0
+ORD0072,2026-02-23,Bengaluru,USB Drive,Electronics,2,700,0.05,1330.0
+ORD0073,2026-05-06,Ahmedabad,Desk Lamp,Furniture,1,1800,0,1800
+ORD0074,2026-04-19,Mumbai,Desk Lamp,Furniture,1,1800,0,1800
+ORD0075,2026-02-03,Bengaluru,Desk Lamp,Furniture,2,1800,0.1,3240.0
+ORD0076,2026-04-20,Ahmedabad,Laptop,Electronics,1,65000,0,65000
+ORD0077,2026-02-08,Bengaluru,Laptop,Electronics,3,65000,0.15,165750.0
+ORD0078,2026-02-07,Mumbai,Pen Set,Stationery,2,220,0,440
+ORD0079,2026-04-04,Ahmedabad,Laptop,Electronics,3,65000,0,195000
+ORD0080,2026-03-05,Pune,Headphones,Electronics,3,2500,0.15,6375.0
+ORD0081,2026-06-08,Delhi,Office Chair,Furniture,2,8500,0,17000
+ORD0082,2026-04-16,Pune,Laptop,Electronics,2,65000,0.05,123500.0
+ORD0083,2026-06-21,Ahmedabad,Notebook Pack,Stationery,3,350,0,1050
+ORD0084,2026-01-28,Delhi,Pen Set,Stationery,1,220,0.1,198.0
+ORD0085,2026-02-21,Delhi,Monitor,Electronics,3,14000,0.05,39900.0
+ORD0086,2026-02-27,Mumbai,Laptop,Electronics,2,65000,0.1,117000.0
+ORD0087,2026-03-13,Ahmedabad,Headphones,Electronics,3,2500,0.05,7125.0
+ORD0088,2026-05-11,Jaipur,Pen Set,Stationery,5,220,0.05,1045.0
+ORD0089,2026-01-30,Mumbai,Desk Lamp,Furniture,2,1800,0.15,3060.0
+ORD0090,2026-01-10,Mumbai,Headphones,Electronics,5,2500,0.1,11250.0
+ORD0091,2026-03-22,Jaipur,Pen Set,Stationery,5,220,0.15,935.0
+ORD0092,2026-04-09,Ahmedabad,Notebook Pack,Stationery,3,350,0,1050
+ORD0093,2026-04-22,Ahmedabad,Laptop,Electronics,5,65000,0.15,276250.0
+ORD0094,2026-06-21,Jaipur,Notebook Pack,Stationery,3,350,0.1,945.0
+ORD0095,2026-06-20,Ahmedabad,USB Drive,Electronics,5,700,0.05,3325.0
+ORD0096,2026-02-01,Ahmedabad,Desk Lamp,Furniture,5,1800,0.05,8550.0
+ORD0097,2026-04-15,Bengaluru,USB Drive,Electronics,4,700,0.05,2660.0
+ORD0098,2026-02-02,Ahmedabad,Notebook Pack,Stationery,4,350,0.1,1260.0
+ORD0099,2026-02-14,Jaipur,Desk Lamp,Furniture,4,1800,0.15,6120.0
+ORD0100,2026-03-19,Bengaluru,Desk Lamp,Furniture,2,1800,0.1,3240.0
+ORD0101,2026-06-05,Pune,USB Drive,Electronics,4,700,0.1,2520.0
+ORD0102,2026-06-22,Ahmedabad,Notebook Pack,Stationery,5,350,0.1,1575.0
+ORD0103,2026-02-13,Ahmedabad,Headphones,Electronics,3,2500,0.15,6375.0
+ORD0104,2026-06-12,Ahmedabad,USB Drive,Electronics,1,700,0,700
+ORD0105,2026-03-21,Jaipur,Notebook Pack,Stationery,2,350,0,700
+ORD0106,2026-01-12,Jaipur,Notebook Pack,Stationery,4,350,0.15,1190.0
+ORD0107,2026-04-27,Ahmedabad,Pen Set,Stationery,5,220,0,1100
+ORD0108,2026-06-28,Delhi,Pen Set,Stationery,4,220,0.1,792.0
+ORD0109,2026-02-07,Delhi,Laptop,Electronics,1,65000,0.1,58500.0
+ORD0110,2026-02-15,Delhi,Monitor,Electronics,1,14000,0.15,11900.0
+ORD0111,2026-02-01,Ahmedabad,Monitor,Electronics,2,14000,0.1,25200.0
+ORD0112,2026-05-16,Ahmedabad,USB Drive,Electronics,4,700,0.15,2380.0
+ORD0113,2026-05-10,Delhi,Pen Set,Stationery,5,220,0.1,990.0
+ORD0114,2026-05-02,Ahmedabad,Monitor,Electronics,3,14000,0,42000
+ORD0115,2026-03-12,Pune,Monitor,Electronics,2,14000,0.05,26600.0
+ORD0116,2026-01-20,Mumbai,Desk Lamp,Furniture,2,1800,0.05,3420.0
+ORD0117,2026-03-23,Delhi,Headphones,Electronics,2,2500,0,5000
+ORD0118,2026-04-09,Pune,Office Chair,Furniture,2,8500,0,17000
+ORD0119,2026-04-15,Pune,USB Drive,Electronics,5,700,0.1,3150.0
+ORD0120,2026-01-16,Bengaluru,Notebook Pack,Stationery,4,350,0.1,1260.0
